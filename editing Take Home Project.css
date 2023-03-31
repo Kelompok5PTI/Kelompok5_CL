@@ -1,0 +1,17 @@
+#petlogo{
+    width: 60px;
+}
+
+.textsize{
+    font-size: 24px;
+}
+
+#petname{
+    height: 40px;
+}
+.button{
+    border-radius: 20px;
+    border-color: grey;
+    width: 100px;
+    height: 50px;
+}
