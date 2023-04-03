@@ -1,4 +1,4 @@
-# Kelompok5_CL
+# Kelompok5_C
 tempat pengumpulan file untuk ujian mid
 
 Joy Rockniel Abadi
