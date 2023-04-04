@@ -1,0 +1,177 @@
+/* Set background color */
+body {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style header */
+  .header {
+    background-color: #333;
+    color: #fff;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+  }
+  
+  .header li {
+    margin-right: 20px;
+  }
+  
+  .header a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    transition: color 0.3s ease;
+  }
+  
+  .header a:hover {
+    color: #f2f2f2;
+  }
+  
+  /* Style game info section */
+  .game-info {
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 500px;
+    text-align: center;
+  }
+  
+  .game-info h1 {
+    margin-top: 0;
+    font-size: 48px;
+  }
+  
+  .game-info p {
+    font-size: 24px;
+  }
+  
+  .game-info button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .game-info button:hover {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  /* Style upgrade dagangan section */
+  .upgrade-dagangan {
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 500px;
+    text-align: center;
+  }
+  
+  .upgrade-dagangan h2 {
+    margin-top: 0;
+    font-size: 36px;
+  }
+  
+  .upgrade-dagangan ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .upgrade-dagangan li {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .upgrade-dagangan button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .upgrade-dagangan button:hover {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  /* Style click tahu section */
+  .click-tahu {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .click-tahu h2 {
+    margin-top: 0;
+    font-size: 36px;
+  }
+  
+  .click-tahu img {
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 20px;
+  }
+
+  .click-tahu img:hover {
+    transform: scale(1.2);
+    color: #053895 ;
+}
+
+.pengurus {
+    display: inline-table;
+    text-align: center;
+    margin: 110px;
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px
+}
+
+.pengurus img {
+    width: 160px;
+    height: 160px;
+    width: 160px;
+    height: 160px;
+    transition: transform 0.5s ease;
+}
+
+.pengurus h3 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.pengurus p{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.pengurus:hover {
+    transform: scale(1.2);
+    color: #053895 ;
+}
+
+
+  
